@@ -267,7 +267,7 @@ label {
   left: 12px;
   width: 25px;
   height: 19px;
-  background: url("../imgloginform/arrow.png") 0 0 no-repeat;
+  background: url("../../imgloginform/arrow.png") 0 0 no-repeat;
 }
 
 ::-moz-focus-inner {
